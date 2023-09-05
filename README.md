@@ -1,15 +1,22 @@
-# worldwide-sensitive-word-collection
+# Worldwide sensitive word collection
+
+## Welcome! 👋
+Thank you for reaching out here, hopefully, this repo can help your project in some way.
 
 ## Introduction
-This repo collect world wide unerversal sensitive word. Word files are classified by languages and topics.
+This repo collects worldwide universal sensitive words. Word files are classified by languages and topics try our best.
 
-At the begining, we focus on adding English, Chinese(中文) and Japanses（日文) sensitive word. In addition focus on pornography and violance topics.
+In the beginning, we focus on adding languages: 
+1. English  2. Chinese(中文) 3. Japanese（日文) 
+
+In addition, focus on topics: 
+1. pornography 2. violence 3. vulgar topics.
 
 
 
 ## Contribute
 Thank you for willing to help us.
-Welcome anyone review/revise/add/remove sensitive words by opening pull requests or opening issues.
+Welcome anyone to review/revise/add/remove sensitive words by forking repo and opening pull requests or opening issues.
 
 
 ## Licence (see also LICENSE.txt)
