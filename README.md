@@ -12,6 +12,34 @@ In the beginning, we focus on adding languages:
 In addition, focus on topics: 
 1. pornography 2. violence 3. vulgar topics.
 
+Besides, we also add sensitive emoticon. 
+
+## Supported list
+### Langauges
+- English (en)
+- Simplified Chinese(zh-CN)
+- Traditional Chinese(zh-TW)
+- Japanese (ja)
+
+### Topics
+- Pornopraphy
+- Violence
+- Vulgar
+- Emoticon
+
+
+## Files
+
+### Folder structure
+<pre>
+- // root
+- {iso-639-langauge-code}  // e.g.  en
+    -{topic}.csv           // e.g.  vulgar.csv
+- emoticon.csv
+</pre>
+
+### File Format
+All file values follow comma-separated values
 
 
 ## Contribute
@@ -23,7 +51,7 @@ Welcome anyone to review/revise/add/remove sensitive words by forking repo and o
 
 MIT License
 
-Copyright (c) 2023 Albert Huang
+Copyright (c) 2023 ChunChiehHuang18
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
