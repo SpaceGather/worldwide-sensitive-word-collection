@@ -51,7 +51,7 @@ Welcome anyone to review/revise/add/remove sensitive words by forking repo and o
 
 MIT License
 
-Copyright (c) 2023 ChunChiehHuang18
+Copyright (c) 2023 SpaceGather
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
